@@ -1,0 +1,22 @@
+html, body {
+  margin: 20;
+  padding: 10;
+  background-repeat: no-repeat;
+  background-color: rgb(1, 47, 58);
+
+}
+
+
+canvas {
+  display: block;
+  border: 5px solid rgb(91, 230, 255);
+  border-style: ridge;
+  position: center;
+  margin: auto;
+  padding: auto;
+}
+
+h1 {
+  text-shadow: 2px 2px 4px rgb(131, 232, 255);
+}
+
